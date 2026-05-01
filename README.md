@@ -2,7 +2,7 @@
 
 **Base Sounds Studio** is a Lua-based GUI application that creates **base-sounds sets** for OpenTTD.
 
-![](docs/preview.png)
+![](docs/preview2.png)
 
 It provides a user-friendly interface for managing sound effects while supporting a wide range of audio formats. It is designed for users with little or no experience in coding or mod development.
 
